@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p143523,KWHZ,P,2018-02-23T02:29:35.218389Z,NaN,automatic
+2018p143523,KWHZ,P,2018-02-23T02:29:35.228388Z,NaN,automatic

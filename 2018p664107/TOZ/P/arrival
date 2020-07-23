@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p664107,TOZ,P,2018-09-03T17:17:00.158394Z,NaN,automatic
+2018p664107,TOZ,P,2018-09-03T17:17:00.258393Z,NaN,automatic

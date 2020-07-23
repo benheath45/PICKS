@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p409134,ANWZ,P,2017-06-01T09:07:36.588394Z,NaN,automatic
+2017p409134,ANWZ,P,2017-06-01T09:07:36.728393Z,NaN,automatic

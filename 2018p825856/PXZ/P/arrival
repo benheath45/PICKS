@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p825856,PXZ,P,2018-11-02T13:37:08.813131Z,NaN,automatic
+2018p825856,PXZ,P,2018-11-02T13:37:08.633131Z,NaN,automatic

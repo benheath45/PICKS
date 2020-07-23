@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p793027,BKZ,P,2017-10-21T10:06:02.208392Z,NaN,automatic
+2017p793027,BKZ,P,2017-10-21T10:06:02.788393Z,NaN,automatic

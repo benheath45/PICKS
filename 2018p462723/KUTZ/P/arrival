@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p462723,KUTZ,P,2018-06-21T04:59:31.468393Z,NaN,automatic
+2018p462723,KUTZ,P,2018-06-21T04:59:31.478393Z,NaN,automatic

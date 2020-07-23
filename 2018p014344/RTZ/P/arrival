@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p014344,RTZ,P,2018-01-06T07:23:24.633066Z,NaN,automatic
+2018p014344,RTZ,P,2018-01-06T07:23:24.673063Z,NaN,automatic

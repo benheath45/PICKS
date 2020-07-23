@@ -1,0 +1,2 @@
+event_id,event_origin_time,event_latitude,event_longitude,event_depth,event_magnitude,event_location_type
+2020p012341,2020-01-05T13:35:18.740924Z,-38.98845673,174.9469299,211.6696014,NaN,NaN

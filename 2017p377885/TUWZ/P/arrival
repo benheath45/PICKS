@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p377885,TUWZ,P,2017-05-20T19:38:03.471913Z,NaN,manual
+2017p377885,TUWZ,P,2017-05-20T19:37:50.952056Z,NaN,manual

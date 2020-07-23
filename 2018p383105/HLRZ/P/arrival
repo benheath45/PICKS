@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p383105,HLRZ,P,2018-05-22T17:59:51.888396Z,NaN,automatic
+2018p383105,HLRZ,P,2018-05-22T17:59:53.418395Z,NaN,automatic

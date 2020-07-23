@@ -1,0 +1,2 @@
+event_id,event_origin_time,event_latitude,event_longitude,event_depth,event_magnitude,event_location_type
+2016p860700,2016-11-14T11:01:20.675000Z,-41.86621,174.32178,3.26,NaN,NaN

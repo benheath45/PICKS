@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2019p268173,BKZ,P,2019-04-10T05:23:09.898393Z,NaN,automatic
+2019p268173,BKZ,P,2019-04-10T05:23:09.908393Z,NaN,automatic

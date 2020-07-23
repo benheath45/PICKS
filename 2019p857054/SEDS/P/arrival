@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2019p857054,SEDS,P,2019-11-14T02:38:56.399732Z,NaN,manual
+2019p857054,SEDS,P,2019-11-14T02:39:05.958434Z,NaN,manual

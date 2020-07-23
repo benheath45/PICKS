@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p494953,PKGZ,P,2018-07-03T03:11:45.989984Z,NaN,automatic
+2018p494953,PKGZ,P,2018-07-03T03:11:45.999986Z,NaN,automatic

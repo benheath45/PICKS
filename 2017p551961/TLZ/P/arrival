@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p551961,TLZ,P,2017-07-24T05:25:59.678393Z,NaN,automatic
+2017p551961,TLZ,P,2017-07-24T05:25:59.798393Z,NaN,automatic

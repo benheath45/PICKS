@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p524886,BHHZ,P,2017-07-14T05:00:33.028390Z,NaN,automatic
+2017p524886,BHHZ,P,2017-07-14T05:00:33.068391Z,NaN,automatic

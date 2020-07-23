@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2019p390139,NMHZ,P,2019-05-25T08:27:05.263131Z,NaN,automatic
+2019p390139,NMHZ,P,2019-05-25T08:26:59.203131Z,NaN,automatic

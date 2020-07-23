@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2019p187865,WMGZ,P,2019-03-11T12:14:52.813342Z,NaN,manual
+2019p187865,WMGZ,P,2019-03-11T12:14:52.200008Z,NaN,automatic

@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2019p458737,TWGZ,P,2019-06-19T17:35:32.533134Z,NaN,automatic
+2019p458737,TWGZ,P,2019-06-19T17:35:32.543134Z,NaN,automatic

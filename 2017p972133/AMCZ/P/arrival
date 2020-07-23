@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p972133,AMCZ,P,2017-12-26T16:33:06.978405Z,NaN,automatic
+2017p972133,AMCZ,P,2017-12-26T16:33:06.988405Z,NaN,automatic

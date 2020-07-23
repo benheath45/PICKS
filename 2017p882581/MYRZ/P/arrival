@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p882581,MYRZ,P,2017-11-23T13:19:43.388621Z,NaN,automatic
+2017p882581,MYRZ,P,2017-11-23T13:19:43.538615Z,NaN,automatic

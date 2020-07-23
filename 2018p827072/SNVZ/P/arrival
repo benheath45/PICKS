@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p827072,SNVZ,P,2018-11-03T00:24:36.433130Z,NaN,automatic
+2018p827072,SNVZ,P,2018-11-03T00:24:36.313130Z,NaN,automatic

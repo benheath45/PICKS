@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2019p463420,MYRZ,P,2019-06-21T11:10:57.220163Z,NaN,manual
+2019p463420,MYRZ,P,2019-06-21T11:11:08.461933Z,NaN,manual

@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2018p213491,WKZ,P,2018-03-20T23:49:03.603134Z,NaN,automatic
+2018p213491,WKZ,P,2018-03-20T23:49:09.093135Z,NaN,automatic

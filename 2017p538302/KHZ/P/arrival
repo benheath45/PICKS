@@ -1,0 +1,3 @@
+event_id,station,phase,time,error,method
+2017p538302,KHZ,P,2017-07-19T04:07:53.218391Z,NaN,automatic
+2017p538302,KHZ,P,2017-07-19T04:07:56.858638Z,NaN,manual
