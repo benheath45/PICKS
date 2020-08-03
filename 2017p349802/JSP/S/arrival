@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p349802,JSP,S,2017-05-10T10:15:00.334688Z,0.354,NaN
+event_id,station,phase,time,error,user,user_date
+2017p349802,JSP,S,2017-05-10T10:15:00.493783Z,0.05,Lenni,2020-07-27 14:44:38.651252

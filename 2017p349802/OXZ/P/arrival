@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p349802,OXZ,P,2017-05-10T10:15:10.948100Z,0.02,NaN
+event_id,station,phase,time,error,user,user_date
+2017p349802,OXZ,P,2017-05-10T10:15:10.908123Z,0.02,NaN,NaN
