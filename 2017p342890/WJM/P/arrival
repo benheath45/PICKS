@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p342890,WJM,P,2017-05-07T20:52:11.609700Z,0.02,NaN
+event_id,station,phase,time,error,user,user_date
+2017p342890,WJM,P,2017-05-07T20:52:11.597418Z,0.034,NaN,NaN
