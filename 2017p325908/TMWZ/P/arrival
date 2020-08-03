@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p325908,TMWZ,P,2017-05-01T14:04:30.713400Z,0.0825,NaN
+event_id,station,phase,time,error,user,user_date
+2017p325908,TMWZ,P,2017-05-01T14:04:30.672933Z,0.04,Lenni,2020-07-27 11:06:41.877163

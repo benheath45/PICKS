@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p325908,KHLS,P,2017-05-01T14:04:39.615000Z,0.0623,NaN
+event_id,station,phase,time,error,user,user_date
+2017p325908,KHLS,P,2017-05-01T14:04:39.635836Z,0.1,Lenni,2020-07-27 11:06:42.028215
