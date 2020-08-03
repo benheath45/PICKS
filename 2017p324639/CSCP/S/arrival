@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p324639,CSCP,S,2017-05-01T02:48:15.095000Z,0.149,NaN
+event_id,station,phase,time,error,user,user_date
+2017p324639,CSCP,S,2017-05-01T02:48:14.928211Z,0.1,Lenni,2020-07-27 11:44:24.181394

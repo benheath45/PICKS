@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p324639,BSWZ,P,2017-05-01T02:48:14.675000Z,0.02,NaN
+event_id,station,phase,time,error,user,user_date
+2017p324639,BSWZ,P,2017-05-01T02:48:14.653930Z,0.025,Lenni,2020-07-27 11:29:47.674999

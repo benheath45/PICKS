@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p324639,CVR,P,2017-05-01T02:48:19.226100Z,0.02,NaN
+event_id,station,phase,time,error,user,user_date
+2017p324639,CVR,P,2017-05-01T02:48:19.247625Z,0.05,Lenni,2020-07-27 11:29:47.702300
