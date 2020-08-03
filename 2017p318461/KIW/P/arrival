@@ -1,2 +1,2 @@
-event_id,station,phase,time,error,method
-2017p318461,KIW,P,2017-04-28T19:56:27.823400Z,0.02,NaN
+event_id,station,phase,time,error,user,user_date
+2017p318461,KIW,P,2017-04-28T19:56:27.784808Z,0.05,Lenni,2020-07-27 12:08:38.002537
